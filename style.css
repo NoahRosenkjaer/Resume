@@ -22,8 +22,7 @@ Original Green:  #66cc99
     box-sizing: border-box;
 }
 
-html,
-body {
+html, body {
     height: 100%;
 }
 
@@ -169,8 +168,7 @@ a {
     position: relative;
     color: var(--skillsColor);
     font-weight: 300;
-    min-height: 100%;
-    min-height: 100vh;
+    height: 98.5%;
 
     h3.experience-title {
         color: var(--linkColor);
