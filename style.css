@@ -119,6 +119,16 @@ a {
         }
     }
 
+    .Picture-bg {
+        border: solid 4px;
+        border-radius: 20%;
+        border-color: var(--linkColor);
+        width: 185px;
+        height: 185px;
+        position: fixed;
+        margin: 14.5px 0px 10px 17.2px;
+    }
+
     .contact-info {
         margin-top: 100px;
         font-weight: 300;
